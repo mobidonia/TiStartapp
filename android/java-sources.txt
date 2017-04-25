@@ -1,0 +1,3 @@
+"/Users/dimovdaniel/Documents/Titanium_Studio_Mobidonia/tistartapp/android/src/com/mobidonia/tistartapp/BannerProxy.java"
+"/Users/dimovdaniel/Documents/Titanium_Studio_Mobidonia/tistartapp/android/src/com/mobidonia/tistartapp/TistartappModule.java"
+"/Users/dimovdaniel/Documents/Titanium_Studio_Mobidonia/tistartapp/android/build/generated/java/com/mobidonia/tistartapp/TistartappBootstrap.java"

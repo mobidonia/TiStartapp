@@ -1,0 +1,18 @@
+%define lookup-function-name lookupGeneratedInit
+%define class-name TistartappBindings
+%{
+
+#include <string.h>
+#include <v8.h>
+#include <KrollBindings.h>
+
+#include "com.mobidonia.tistartapp.TistartappModule.h"
+#include "com.mobidonia.tistartapp.BannerProxy.h"
+
+
+%}
+struct titanium::bindings::BindEntry;
+%%
+com.mobidonia.tistartapp.BannerProxy,::com::mobidonia::tistartapp::tistartapp::BannerProxy::bindProxy,::com::mobidonia::tistartapp::tistartapp::BannerProxy::dispose
+com.mobidonia.tistartapp.TistartappModule,::com::mobidonia::tistartapp::TistartappModule::bindProxy,::com::mobidonia::tistartapp::TistartappModule::dispose
+%%
