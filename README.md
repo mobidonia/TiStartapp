@@ -1,6 +1,6 @@
 #TiSartApp Module
 
-![StartApp Add](screenshots/sc1.png?raw=true =250x "StartApp")
+![StartApp Add](screenshots/sc1.png?raw=true "StartApp")
 
 Show StartApp Ads inside your titanium project
 
